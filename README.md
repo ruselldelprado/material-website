@@ -8,7 +8,7 @@ Go to `client/` folder then run then run the scripts
 
 ### `npm install`
 
-Install's the dependencies locally
+Install's the dependencies locally. \
 Make sure you have [npm](https://nodejs.dev/) installed on your machine
 
 ### `npm start`
@@ -35,7 +35,7 @@ Go to `server/` folder then run `npm install` then run the scripts
 
 ### `npm install`
 
-Install's the dependencies locally
+Install's the dependencies locally. \
 Make sure you have [npm](https://nodejs.dev/) installed on your machine
 
 ### `npm start`
