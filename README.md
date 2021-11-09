@@ -3,7 +3,7 @@
 
 ## Starting Client Scripts
 
-Go to `/client` folder then run the scripts
+Go to `client/` folder then run the scripts
 
 ### `npm start`
 
@@ -15,7 +15,7 @@ You will also see any lint errors in the console.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
+Builds the app for production to the `build/` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
 The build is minified and the filenames include the hashes.\
@@ -25,7 +25,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Starting Server Scripts
 
-Go to `/server` folder then run the scripts
+Go to `server/` folder then run the scripts
 
 ### `npm start`
 
