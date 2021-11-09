@@ -2,6 +2,9 @@
 
 
 ## Starting Client Scripts
+
+Go to `client` folder then run the scripts
+
 ### `npm start`
 
 Runs the app in the development mode.\
