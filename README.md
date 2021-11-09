@@ -25,11 +25,13 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Starting Server Scripts
 
+Go to `client` folder then run the scripts
+
 ### `npm start`
 
-Runs the server at the `server` folder
+Runs the server at the `node` server  
 
 ### `npm run dev`
 
-Runs the server using nodemon
+Runs the server using `nodemon`
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
