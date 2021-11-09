@@ -1,9 +1,10 @@
 # Getting Started 
 
+Go to 
 
 ## Starting Client Scripts
 
-Go to `client/` folder then run the scripts
+Go to `client/` folder then run `npm install` then run the scripts
 
 ### `npm start`
 
@@ -25,7 +26,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Starting Server Scripts
 
-Go to `server/` folder then run the scripts
+Go to `server/` folder then run `npm install` then run the scripts
 
 ### `npm start`
 
