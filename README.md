@@ -1,10 +1,15 @@
 # Getting Started 
 
-Go to 
 
 ## Starting Client Scripts
 
-Go to `client/` folder then run `npm install` then run the scripts
+Go to `client/` folder then run then run the scripts
+
+
+### `npm install`
+
+Install's the dependencies locally
+Make sure you have [npm](https://nodejs.dev/) installed on your machine
 
 ### `npm start`
 
@@ -27,6 +32,11 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ## Starting Server Scripts
 
 Go to `server/` folder then run `npm install` then run the scripts
+
+### `npm install`
+
+Install's the dependencies locally
+Make sure you have [npm](https://nodejs.dev/) installed on your machine
 
 ### `npm start`
 
