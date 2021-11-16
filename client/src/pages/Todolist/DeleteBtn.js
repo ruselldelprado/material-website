@@ -15,11 +15,10 @@ const DeleteBtn = ({ id, name, setLoading }) => {
             setLoading(false);
         }
     }
-    
-    
+
     return (
         <div>
-            <Button onClick={delItem}><DeleteIcon/></Button>
+            <Button onClick={delItem} ><DeleteIcon/></Button>
         </div>
     )
 }

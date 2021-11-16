@@ -39,7 +39,23 @@ export const useTodo = () => {
         }
         
     }
+    
+    const enter = async (e) => {
+        if (name !== '' && e.key === 'Enter') {
+            try {
+                setLoading(true)
+                await axios.post('/api/items', {name} );
+            } catch (error) {
+                
+            }
+            finally {
+                setLoading(false)
+                setName('');
+            }
+        }
+        
+    }
 
-    return [data, name, setName, addItem, setLoading,loading]
+    return [data, name, setName, addItem, setLoading, loading, enter]
 }
 
