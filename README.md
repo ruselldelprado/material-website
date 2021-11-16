@@ -42,7 +42,12 @@ Make sure you have [npm](https://nodejs.dev/) installed on your machine
 
 Runs the server at the `node` js  
 
-### `npm run dev`
+### `npm run server`
 
 Runs the server using `nodemon`
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
+
+
+## Starting Client and Server Scripts Together
+
+Go to `server/` folder then run `npm run server` to start client and server scripts concurrently
