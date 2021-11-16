@@ -52,6 +52,6 @@ Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 Go to `server/` folder then run 
 
-### `npm run server` 
+### `npm run dev` 
 
 to start client and server scripts concurrently
